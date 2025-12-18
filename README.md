@@ -59,6 +59,7 @@ Die Inhalte basieren auf Informationen von [W3Schools - HTML5 Semantic Elements]
 ## Autor
 
 Erstellt als Lernprojekt zur Demonstration semantischer HTML-Strukturen.
+Readme wurde mit Antrophic Claude Code erstellt.
 
 ## Lizenz
 
