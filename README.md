@@ -56,6 +56,8 @@ Keine zusätzlichen Dependencies erforderlich!
 
 Die Inhalte basieren auf Informationen von [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
+Hintergrundbild: [LinkedIn Article Cover Image](https://media.licdn.com/dms/image/v2/D4D12AQFxxcd80D_VbQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714502450671?e=2147483647&v=beta&t=cyLjgSxaLupFRA8tHGhYAM6iFdmtWQTT3EjOAKK2MUg)
+
 ## Autor
 
 Erstellt als Lernprojekt zur Demonstration semantischer HTML-Strukturen.
