@@ -2,33 +2,33 @@
 
 Eine interaktive Webseite zur Erklärung und Demonstration semantischer HTML-Elemente.
 
-## Über das Projekt
+## 📖 Über das Projekt
 
-Diese Webseite bietet eine Einführung in semantische HTML-Elemente und erklärt ihre Bedeutung für die Webentwicklung. Semantische Elemente machen HTML-Code nicht nur verständlicher, sondern auch barrierefreier und besser strukturiert.
+Diese Webseite bietet eine praxisnahe Einführung in semantische HTML-Elemente und erklärt ihre Bedeutung für moderne Webentwicklung. Semantische Elemente machen HTML-Code nicht nur verständlicher und wartbarer, sondern verbessern auch die Barrierefreiheit und Suchmaschinenoptimierung.
 
-## Inhalt
+## 📋 Inhalt
 
 Die Webseite behandelt folgende Themen:
 
-- **Was sind semantische Elemente?** - Eine Einführung in die Bedeutung und den Nutzen semantischer Tags
-- **Welche semantischen Elemente gibt es?** - Eine Übersicht der wichtigsten HTML5-Elemente
-- **Beispiel-Code** - Praktische Anwendungsbeispiele für verschiedene semantische Elemente
+- **Was sind semantische Elemente?** – Eine Einführung in die Bedeutung und den Nutzen semantischer Tags
+- **Welche semantischen Elemente gibt es?** – Eine Übersicht der wichtigsten HTML5-Elemente
+- **Beispiel-Code** – Praktische Anwendungsbeispiele für verschiedene semantische Elemente
 
 ### Behandelte Elemente
 
-- `<header>` - Kopfbereich für Überschriften
-- `<nav>` - Navigationsbereich
-- `<section>` - Thematische Abschnitte
-- `<article>` - Eigenständige Inhaltselemente
-- `<aside>` - Ergänzende Inhalte
-- `<footer>` - Fußbereich
+- `<header>` – Kopfbereich für Überschriften
+- `<nav>` – Navigationsbereich
+- `<section>` – Thematische Abschnitte
+- `<article>` – Eigenständige Inhaltselemente
+- `<aside>` – Ergänzende Inhalte
+- `<footer>` – Fußbereich
 
-## Technologien
+## 🛠️ Technologien
 
 - HTML5
 - CSS3
 
-## Struktur
+## 📁 Struktur
 
 ```
 Semantik.web/
@@ -37,7 +37,7 @@ Semantik.web/
 └── README.md       # Projektdokumentation
 ```
 
-## Features
+## ✨ Features
 
 - Übersichtliche Navigation mit Sprungmarken
 - Responsive Design mit abgerundeten Kartenlayouts
@@ -45,24 +45,26 @@ Semantik.web/
 - Elegantes Hintergrunddesign
 - Hover-Effekte bei Navigationselementen
 
-## Installation
+## 🚀 Installation
 
 1. Repository klonen oder herunterladen
-2. `index.html` in einem Webbrowser öffnen
+2. [index.html](index.html) in einem Webbrowser öffnen
 
 Keine zusätzlichen Dependencies erforderlich!
 
-## Quellen
+## 📚 Quellen
 
-Die Inhalte basieren auf Informationen von [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+**Inhalte:**
+[W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-Hintergrundbild: [LinkedIn Article Cover Image](https://media.licdn.com/dms/image/v2/D4D12AQFxxcd80D_VbQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714502450671?e=2147483647&v=beta&t=cyLjgSxaLupFRA8tHGhYAM6iFdmtWQTT3EjOAKK2MUg)
+**Hintergrundbild:**
+[LinkedIn Article Cover Image](https://media.licdn.com/dms/image/v2/D4D12AQFxxcd80D_VbQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714502450671?e=2147483647&v=beta&t=cyLjgSxaLupFRA8tHGhYAM6iFdmtWQTT3EjOAKK2MUg)
 
-## Autor
+## 👤 Autor
 
 Erstellt als Lernprojekt zur Demonstration semantischer HTML-Strukturen.
-Readme wurde mit Antrophic Claude Code erstellt.
+README wurde mit Anthropic Claude Code erstellt.
 
-## Lizenz
+## 📄 Lizenz
 
 Dieses Projekt steht zur freien Verwendung für Bildungszwecke zur Verfügung.
