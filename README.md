@@ -1,10 +1,18 @@
-# Erics Informatik Projekte
+# Erics Informatik Projekte 🚀
 
-Eine Sammlung von Web-Projekten mit Fokus auf moderne HTML- und CSS-Techniken. Das Hauptprojekt behandelt semantische HTML-Elemente und ihre praktische Anwendung.
+Eine Sammlung von Web-Projekten mit Fokus auf moderne HTML- und CSS-Techniken. Dieses Repository dient als zentrale Plattform für verschiedene Webentwicklungs-Tutorials und Lernprojekte.
 
 ## 📖 Über das Projekt
 
-Diese Webseite bietet eine praxisnahe Einführung in semantische HTML-Elemente und erklärt ihre Bedeutung für moderne Webentwicklung. Semantische Elemente machen HTML-Code nicht nur verständlicher und wartbarer, sondern verbessern auch die Barrierefreiheit und Suchmaschinenoptimierung.
+Diese interaktive Webseite bietet eine praxisnahe Einführung in grundlegende Webentwicklungskonzepte. Das Hauptprojekt behandelt **semantische HTML-Elemente** und ihre praktische Anwendung in der modernen Webentwicklung.
+
+### Was sind semantische Elemente?
+
+Semantische HTML-Elemente beschreiben ihre Bedeutung sowohl für Browser als auch für Entwickler. Sie machen den Code:
+- **Verständlicher** - Die Struktur ist auf den ersten Blick erkennbar
+- **Wartbarer** - Änderungen sind einfacher durchzuführen
+- **Barrierefreier** - Screenreader können den Inhalt besser interpretieren
+- **SEO-optimiert** - Suchmaschinen verstehen die Inhaltsstruktur besser
 
 ## 📋 Inhalt
 
@@ -29,19 +37,25 @@ Die Webseite behandelt folgende Themen:
 - HTML5
 - CSS3
 
-## 📁 Struktur
+## 📁 Projektstruktur
 
 ```
 Semantik.web/
-├── Home Page/
-│   ├── index.html      # Hauptseite mit Projektübersicht
-│   └── style.css       # Styling für die Homepage
+├── index.html          # Homepage - Haupteinstiegspunkt mit Projektübersicht
+├── style.css           # Globales Styling für die Homepage
 ├── Semantik/
-│   ├── semantik.html   # Semantik-Tutorial Seite
-│   └── semantik.css    # Styling für die Semantik-Seite
-├── CNAME               # Domain-Konfiguration
-└── README.md           # Projektdokumentation
+│   ├── semantik.html   # Semantik-Tutorial mit interaktiven Beispielen
+│   └── semantik.css    # Spezifisches Styling für die Semantik-Seite
+├── CNAME               # GitHub Pages Domain-Konfiguration
+└── README.md           # Diese Dokumentation
 ```
+
+### Dateibeschreibungen
+
+- **index.html** - Landingpage mit Navigation zu allen verfügbaren Tutorials
+- **style.css** - Responsive CSS mit modernem Card-Layout und Hover-Effekten
+- **Semantik/semantik.html** - Haupttutorial mit Code-Beispielen und eingebettetem Video
+- **Semantik/semantik.css** - Styling für Tutorial-Seite mit optimierter Lesbarkeit
 
 ## ✨ Features
 
