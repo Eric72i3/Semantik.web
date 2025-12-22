@@ -1,6 +1,6 @@
-# Semantische Elemente in HTML
+# Erics Informatik Projekte
 
-Eine interaktive Webseite zur Erklärung und Demonstration semantischer HTML-Elemente.
+Eine Sammlung von Web-Projekten mit Fokus auf moderne HTML- und CSS-Techniken. Das Hauptprojekt behandelt semantische HTML-Elemente und ihre praktische Anwendung.
 
 ## 📖 Über das Projekt
 
@@ -13,6 +13,7 @@ Die Webseite behandelt folgende Themen:
 - **Was sind semantische Elemente?** – Eine Einführung in die Bedeutung und den Nutzen semantischer Tags
 - **Welche semantischen Elemente gibt es?** – Eine Übersicht der wichtigsten HTML5-Elemente
 - **Beispiel-Code** – Praktische Anwendungsbeispiele für verschiedene semantische Elemente
+- **Erklär-Video** – Eingebettetes YouTube-Tutorial zur Vertiefung des Themas
 
 ### Behandelte Elemente
 
@@ -32,33 +33,48 @@ Die Webseite behandelt folgende Themen:
 
 ```
 Semantik.web/
-├── index.html      # Hauptseite mit Inhalten
-├── styles.css      # Styling und Layout
-└── README.md       # Projektdokumentation
+├── Home Page/
+│   ├── index.html      # Hauptseite mit Projektübersicht
+│   └── style.css       # Styling für die Homepage
+├── Semantik/
+│   ├── semantik.html   # Semantik-Tutorial Seite
+│   └── semantik.css    # Styling für die Semantik-Seite
+├── CNAME               # Domain-Konfiguration
+└── README.md           # Projektdokumentation
 ```
 
 ## ✨ Features
 
-- Übersichtliche Navigation mit Sprungmarken
+- **Homepage mit Projektübersicht** – Zentrale Landingpage für alle Informatik-Projekte
+- **Semantik-Tutorial** – Detaillierte Erklärung semantischer HTML-Elemente
+- **Eingebettetes YouTube-Video** – Visuelles Tutorial direkt auf der Seite
+- Übersichtliche Navigation mit Sprungmarken zu allen Abschnitten
 - Responsive Design mit abgerundeten Kartenlayouts
-- Anschauliche Code-Beispiele
+- Anschauliche Code-Beispiele mit Syntax-Highlighting
 - Elegantes Hintergrunddesign
 - Hover-Effekte bei Navigationselementen
+- Modulare Projektstruktur für einfache Erweiterbarkeit
 
-## 🚀 Installation
+## 🚀 Verwendung
 
 1. Repository klonen oder herunterladen
-2. [index.html](index.html) in einem Webbrowser öffnen
+2. Die [index.html](Home%20Page/index.html) aus dem `Home Page` Ordner in einem Webbrowser öffnen
+3. Auf den "Semantik"-Button klicken, um zum Tutorial zu gelangen
 
 Keine zusätzlichen Dependencies erforderlich!
+
+## 🌐 Live Demo
+
+Das Projekt ist online verfügbar über die konfigurierte Domain (siehe CNAME).
 
 ## 📚 Quellen
 
 **Inhalte:**
-[W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [YouTube Tutorial - Semantische HTML-Elemente](https://www.youtube.com/watch?v=E1oyB40HzJ0)
 
 **Hintergrundbild:**
-[LinkedIn Article Cover Image](https://media.licdn.com/dms/image/v2/D4D12AQFxxcd80D_VbQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714502450671?e=2147483647&v=beta&t=cyLjgSxaLupFRA8tHGhYAM6iFdmtWQTT3EjOAKK2MUg)
+- [LinkedIn Article - Why Semantics](https://de.linkedin.com/pulse/why-semantics-stef-joosten-6qn4f?tl=de)
 
 ## 👤 Autor
 
