@@ -47,7 +47,8 @@ h3 {
     border-radius: 8px;
 }
 
-.beispiel-container {
+.beispiel-container,    /* Dieser teil wurde mit Claude code programiert da ich nicht wuste wie ich verschiedenen classen die gleichen bedingungen gebe */
+.quelle-container {        /* Ab hier alles wieder selber Programiert */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -58,21 +59,8 @@ h3 {
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
-}
-
-.quelle-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: white;
-    padding: 30px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-}
-
+    min-width: 800px;
+}                        
 
 
 article {
