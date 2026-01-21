@@ -4,7 +4,7 @@ Eine Sammlung von Web-Projekten mit Fokus auf moderne HTML- und CSS-Techniken. D
 
 ## 📖 Über das Projekt
 
-Diese interaktive Webseite bietet eine praxisnahe Einführung in grundlegende Webentwicklungskonzepte. Das Hauptprojekt behandelt **semantische HTML-Elemente** und ihre praktische Anwendung in der modernen Webentwicklung.
+Diese interaktive Webseite bietet eine praxisnahe Einführung in grundlegende Webentwicklungskonzepte. Die Projekte behandeln **semantische HTML-Elemente** und **CSS Flexbox** mit praktischen Anwendungsbeispielen.
 
 ### Was sind semantische Elemente?
 
@@ -32,6 +32,22 @@ Die Webseite behandelt folgende Themen:
 - `<aside>` – Ergänzende Inhalte
 - `<footer>` – Fußbereich
 
+### Was ist Flexbox?
+
+CSS Flexbox ist ein modernes Layout-System, mit dem Elemente flexibel angeordnet werden können. Vorteile:
+- **Flexible Ausrichtung** – Elemente nebeneinander, untereinander oder zentriert
+- **Einfache Steuerung** – Abstände, Reihenfolge und Ausrichtung ohne komplizierte Berechnungen
+- **Responsive Designs** – Passt sich automatisch an verschiedene Bildschirmgrößen an
+
+### Behandelte Flexbox-Eigenschaften
+
+- `display: flex` – Aktiviert Flexbox für einen Container
+- `flex-direction` – Richtung: row (horizontal) oder column (vertikal)
+- `justify-content` – Ausrichtung auf der Hauptachse
+- `align-items` – Ausrichtung auf der Querachse
+- `gap` – Abstand zwischen Elementen
+- `flex-wrap` – Umbruch in neue Zeilen
+
 ## 🛠️ Technologien
 
 - HTML5
@@ -46,6 +62,9 @@ Semantik.web/
 ├── Semantik/
 │   ├── semantik.html   # Semantik-Tutorial mit interaktiven Beispielen
 │   └── semantik.css    # Spezifisches Styling für die Semantik-Seite
+├── flexbox/
+│   ├── Flexbox.html    # Flexbox-Tutorial mit Code-Beispielen
+│   └── Flexbox.css     # Styling für die Flexbox-Seite
 ├── CNAME               # GitHub Pages Domain-Konfiguration
 └── README.md           # Diese Dokumentation
 ```
@@ -56,15 +75,18 @@ Semantik.web/
 - **style.css** - Responsive CSS mit modernem Card-Layout und Hover-Effekten
 - **Semantik/semantik.html** - Haupttutorial mit Code-Beispielen und eingebettetem Video
 - **Semantik/semantik.css** - Styling für Tutorial-Seite mit optimierter Lesbarkeit
+- **flexbox/Flexbox.html** - Flexbox-Tutorial mit praktischen CSS-Beispielen
+- **flexbox/Flexbox.css** - Styling mit Flexbox-Layouts als Demonstration
 
 ## ✨ Features
 
 - **Homepage mit Projektübersicht** – Zentrale Landingpage für alle Informatik-Projekte
 - **Semantik-Tutorial** – Detaillierte Erklärung semantischer HTML-Elemente
-- **Eingebettetes YouTube-Video** – Visuelles Tutorial direkt auf der Seite
+- **Flexbox-Tutorial** – Praktische Einführung in CSS Flexbox mit Code-Beispielen
+- **Eingebettetes YouTube-Video** – Visuelles Tutorial direkt auf der Semantik-Seite
 - Übersichtliche Navigation mit Sprungmarken zu allen Abschnitten
 - Responsive Design mit abgerundeten Kartenlayouts
-- Anschauliche Code-Beispiele mit Syntax-Highlighting
+- Anschauliche Code-Beispiele
 - Elegantes Hintergrunddesign
 - Hover-Effekte bei Navigationselementen
 - Modulare Projektstruktur für einfache Erweiterbarkeit
@@ -83,9 +105,13 @@ Das Projekt ist online verfügbar über die konfigurierte Domain (siehe CNAME).
 
 ## 📚 Quellen
 
-**Inhalte:**
+**Semantik-Inhalte:**
 - [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [YouTube Tutorial - Semantische HTML-Elemente](https://www.youtube.com/watch?v=E1oyB40HzJ0)
+
+**Flexbox-Inhalte:**
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
 
 **Hintergrundbild:**
 - [LinkedIn Article - Why Semantics](https://de.linkedin.com/pulse/why-semantics-stef-joosten-6qn4f?tl=de)
