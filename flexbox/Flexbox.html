@@ -1,1 +1,135 @@
+<!DOCTYPE html>
+  <head>
+    <link rel="stylesheet" href="flexbox.css">
+    <title>Flexbox</title>
+  </head>
+  <body>
+    <center><header><h1>Flexbox in CSS</h1></header></center>
+    <center><nav>
+      <a href="#Bedeutung" class="nav">Bedeutung</a>
+      <a href="#Beispiel-code" class="nav">Beispiele</a>
+      <a href="#Quellen" class="nav">Quellen</a>
+    </nav>
+    </center>
+      <div class="container">
+      <div class="flexbox">
+      <article>
+       <center><h3>Was ist Flexbox?</h3></center>
+       <p>Flexbox ist ein modernes CSS-Layoutsystem, mit dem Elemente flexibel und übersichtlich angeordnet werden können.</p>
+       <p>Zum Beispiel:</p>
+       <ul>
+         <li>Nebeneinander</li>
+         <li>Untereinander</li>
+         <li>Zentriert</li>
+       </ul>
+      </article></div>
+      <div class="flexbox">
+        <center><h3>Flexible Ausrichtung</h3></center>
+        <p>Mit Flexbox lassen sich einfach steuern:</p>
+        <ul>
+          <li>Abstände</li>
+          <li>Reihenfolge</li>
+          <li>Ausrichtung</li>
+        </ul>
+        <p>Ohne feste Größen oder komplizierte Berechnungen.</p>
+      </div>
+      <div class="flexbox">
+        <center><h3>Ideal für moderne Layouts</h3></center>
+        <p>Flexbox eignet sich besonders für:</p>
+        <ul>
+          <li>Navigationen</li>
+          <li>Karten</li>
+          <li>Buttons</li>
+          <li>Responsive Designs</li>
+        </ul>
+        <p>Diese passen sich automatisch an verschiedene Bildschirmgrößen an.</p>
+      </div>
+    </div>
+    <section>
+      <header>
+        <center><h2 id="Beispiel-code">Beispiel Code</h2></center>
+      </header>
+      <div class="container">
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>display: flex</h3></center>
+            <div class="beispiel-text">
+            <p>Aktiviert Flexbox für einen Container.</p>
+            .container {<br>
+            <span>display: flex;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>flex-direction</h3></center>
+            <div class="beispiel-text">
+            <p>Richtung: horizontal (row) oder vertikal (column).</p>
+            .container {<br>
+            <span>flex-direction: row;</span><br>
+            <span>flex-direction: column;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>justify-content</h3></center>
+            <div class="beispiel-text">
+            <p>Ausrichtung auf der Hauptachse.</p>
+            .container {<br>
+            <span>justify-content: center;</span><br>
+            <span>justify-content: space-between;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="container">
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>align-items</h3></center>
+            <div class="beispiel-text">
+            <p>Ausrichtung auf der Querachse.</p>
+            .container {<br>
+            <span>align-items: center;</span><br>
+            <span>align-items: flex-start;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>gap</h3></center>
+            <div class="beispiel-text">
+            <p>Abstand zwischen Elementen.</p>
+            .container {<br>
+            <span>gap: 10px;</span><br>
+            <span>gap: 20px 10px;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+        <div class="flexbox" id="flex_beispiele">
+          <article>
+            <center><h3>flex-wrap</h3></center>
+            <div class="beispiel-text">
+            <p>Umbruch in neue Zeilen.</p>
+            .container {<br>
+            <span>flex-wrap: wrap;</span><br>
+            <span>flex-wrap: nowrap;</span><br>
+            }
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <center><h2 id="Quellen">Quellen</h2></center>
+      <center><a href="https://chatgpt.com/">Chat GPT</a>
+      <a href="https://claude.ai/">Claude</a></center>
 
+    </footer>
+  </body>
+</html>

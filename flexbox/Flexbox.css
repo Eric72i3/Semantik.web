@@ -1,1 +1,87 @@
+body{
+    padding: 25px;
+    background-image: url("https://media.licdn.com/dms/image/v2/D4D12AQFxxcd80D_VbQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714502450671?e=2147483647&v=beta&t=cyLjgSxaLupFRA8tHGhYAM6iFdmtWQTT3EjOAKK2MUg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    font-size: 13pt;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 32pt;
+    color: white;
+}
+
+h2 {
+    font-size: 24pt;
+    color: #34495e;
+}
+
+h3 {
+    font-size: 18pt;
+    color: #ffffff;
+}
+.container { 
+      display: flex;
+     justify-content: center;
+      gap: 20px;
+
+}
+
+.flexbox {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.beispiel-text {
+    color:rgb(207, 201, 201)
+
+}
+#flex_beispiele {
+    background-color: #34495e;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+article {
+    margin: 15px 0;
+}
+
+.title {
+    color: #5C6AC4;
+}
+
+.nav {
+    display: inline-block;
+    background-color: #0000CD;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.nav:hover {
+    background-color: #0000FF;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
 
