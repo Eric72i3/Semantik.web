@@ -22,6 +22,10 @@ h3 {
     font-size: 18pt;
     color: #ffffff;
 }
+
+.überschrift_beispiele{ 
+color: #34495e;
+}
 .container { 
       display: flex;
      justify-content: center;
